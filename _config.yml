@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Sierra Pitman
-description: "Hi I'm Sierra, and I start Georgia Tech's MSc in Analytics this fall!  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi, I'm Sierra! I start Georgia Tech's MSc in Analytics this fall, and I have a data analytics background in the heathcare IT space. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
